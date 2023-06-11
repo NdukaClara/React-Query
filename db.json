@@ -1,0 +1,114 @@
+{
+  "superheroes": [
+    {
+      "id": 1,
+      "name": "Batman",
+      "alterEgo": "Bruce Wayne"
+    },
+    {
+      "id": 2,
+      "name": "Superman",
+      "alterEgo": "Clark Kent"
+    },
+    {
+      "id": 3,
+      "name": "Wonder Woman",
+      "alterEgo": "Princess Diana"
+    },
+    {
+      "name": "Super Clara",
+      "alterEgo": "Claracodess",
+      "id": 4
+    },
+    {
+      "name": "billy batman",
+      "alterEgo": "shazam",
+      "id": 5
+    },
+    {
+      "name": "Cat woman",
+      "alterEgo": "Someone else",
+      "id": 6
+    },
+    {
+      "name": "Aquaman",
+      "alterEgo": "Aurthur someone",
+      "id": 7
+    },
+    {
+      "name": "hey",
+      "alterEgo": "nope",
+      "id": 8
+    }
+  ],
+  "friends": [
+    {
+      "id": 1,
+      "name": "Joker"
+    },
+    {
+      "id": 2,
+      "name": "Lex Luthor"
+    },
+    {
+      "id": 3,
+      "name": "Cheetah"
+    }
+  ],
+  "users": [
+    {
+      "id": "clara@example.com",
+      "channelId": "Claracodess"
+    }
+  ],
+  "channels": [
+    {
+      "id": "Claracodess",
+      "courses": [
+        "react, vue, angular"
+      ]
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "name": "red"
+    },
+    {
+      "id": 2,
+      "name": "blue"
+    },
+    {
+      "id": 3,
+      "name": "green"
+    },
+    {
+      "id": 4,
+      "name": "yellow"
+    },
+    {
+      "id": 5,
+      "name": "purple"
+    },
+    {
+      "id": 6,
+      "name": "orange"
+    },
+    {
+      "id": 7,
+      "name": "black"
+    },
+    {
+      "id": 8,
+      "name": "white"
+    },
+    {
+      "id": 9,
+      "name": "pink"
+    },
+    {
+      "id": 10,
+      "name": "brown"
+    }
+  ]
+}
